@@ -1,0 +1,24 @@
+{
+ "captions=automatic, set bff80284": {
+  "id": "fk9smrxezsrmt0d1v9ps8e7d9w",
+  "status": "succeeded",
+  "output": {
+   "version": "cmu-interactive-ai/mlfd-week5-captions-automatic:8be51397e6c0cb2d86439a69706ab150c3d40b0ed4659385ca0d4625c4bc26b7",
+   "weights": "https://replicate.delivery/xezq/Xpt8jJMSTTbsAJl8bIfbw3dfFimwOEDPvzx5w1efZbbzxIGeC/trained_model.tar"
+  },
+  "metrics": {
+   "predict_time": 728.527089678
+  }
+ },
+ "captions=your own, set 9565ded3": {
+  "id": "hmretzxrdxrmt0d1v9pv0sxrec",
+  "status": "succeeded",
+  "output": {
+   "version": "cmu-interactive-ai/mlfd-week5-captions-your-own:717f8119d67c34522c96a1b17e3999064cc93c00fd898957882b850451cb417d",
+   "weights": "https://replicate.delivery/xezq/B3h24veFzfrflp3dC8WNrX3bwxEJqoYFgrgFlFbMX9H6WEDvA/trained_model.tar"
+  },
+  "metrics": {
+   "predict_time": 655.059592632
+  }
+ }
+}
