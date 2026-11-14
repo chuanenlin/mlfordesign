@@ -17,7 +17,7 @@ Each notebook says what it needs in its first cell. The weeks 3, 5 and 7 noteboo
 
 ## Example: museum chairs
 
-`examples/museum-chairs/train` has the 56 chair photos from week 5, from the open-access collections of The Metropolitan Museum of Art and the Art Institute of Chicago (CC0). `credits.csv` lists each chair with its museum record. `examples/museum-chairs/made` has four images from the FLUX.1 [dev] LoRA trained on them, with the trigger word MUSCHR. `datasheet.md` answers the questions from Gebru et al.'s "Datasheets for Datasets" for this set, as in week 4. `captions-museum.csv` has a caption for each chair written from its museum record, which the week 4 notebook compares with automatic captions.
+`examples/museum-chairs/train` has the 56 chair photos used all term, from the open-access collections of The Metropolitan Museum of Art and the Art Institute of Chicago (CC0). `credits.csv` lists each chair with its museum record. `examples/museum-chairs/made` has four images from the FLUX.1 [dev] LoRA trained on them, with the trigger word MUSCHR. `datasheet.md` answers the questions from Gebru et al.'s "Datasheets for Datasets" for this set, as in week 4. `captions-museum.csv` has a caption for each chair written from its museum record, which the week 4 notebook compares with automatic captions.
 
 `examples/mood-pool` has 294 public-domain images from the Art Institute of Chicago for the week 2 mood boards (rooms, textiles, ceramics, prints and more), with `credits.csv` listing each one's record. Together with the 56 chairs, they make the pool of 350 images in week 2.
 
