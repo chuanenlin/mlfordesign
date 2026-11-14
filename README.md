@@ -13,7 +13,7 @@ Each notebook says what it needs in its first cell. The weeks 3, 5 and 7 noteboo
 | 5 | [Make a slider for your model](https://colab.research.google.com/github/chuanenlin/mlfordesign/blob/main/notebooks/week-05-sliders.ipynb) |
 | 6 | [A tool around your model](https://colab.research.google.com/github/chuanenlin/mlfordesign/blob/main/notebooks/week-06-tool.ipynb) |
 | 7 | [Read an agent's log](https://colab.research.google.com/github/chuanenlin/mlfordesign/blob/main/notebooks/week-07-agent-log.ipynb) |
-| 8 | [Ask simulated participants](https://colab.research.google.com/github/chuanenlin/mlfordesign/blob/main/notebooks/week-08-simulated-users.ipynb) |
+| 8 | [Ask simulated users](https://colab.research.google.com/github/chuanenlin/mlfordesign/blob/main/notebooks/week-08-simulated-users.ipynb) |
 
 ## Example: museum chairs
 
