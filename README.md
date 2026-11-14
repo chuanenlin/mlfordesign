@@ -1,6 +1,6 @@
 # Machine Learning for Design: notebooks
 
-Colab notebooks for the workshops in [Machine Learning for Design](https://mlfordesign.com). You can open them from the course schedule, then save a copy to your Drive (File, then Save a copy in Drive) before you run them. Each notebook starts with an example about the 56 museum chairs, and the example's images and figures are saved in it, so you can see the results first and then try your own work.
+Colab notebooks for the workshops in [Machine Learning for Design](https://mlfordesign.com). You can open them from the course schedule, then save a copy to your Drive (File → Save a copy in Drive) before you run them. Each notebook starts with an example about the 56 museum chairs, and the example's images and figures are saved in it, so you can see the results first and then try your own work.
 
 Each notebook says what it needs in its first cell. The weeks 3, 5 and 7 notebooks use the course Replicate token, and weeks 7 and 8 use the course Gemini key, which the instructor shares in the first studio. The week 5 slider and week 6 tool notebooks also need an A100 runtime and your own Hugging Face token.
 
