@@ -7,8 +7,7 @@ Colab notebooks for the workshops in [Machine Learning for Design](https://mlfor
 | 2 | [Group your notes](https://colab.research.google.com/github/chuanenlin/mlfordesign/blob/main/notebooks/week-02-cluster-notes.ipynb) |
 | 3 | [Sketch to image](https://colab.research.google.com/github/chuanenlin/mlfordesign/blob/main/notebooks/week-03-sketch.ipynb) |
 | 4 | [Map your set](https://colab.research.google.com/github/chuanenlin/mlfordesign/blob/main/notebooks/week-04-map-your-set.ipynb) |
-| 5 | [Train two models](https://colab.research.google.com/github/chuanenlin/mlfordesign/blob/main/notebooks/week-05-train.ipynb) |
-| 5 | [Map your images](https://colab.research.google.com/github/chuanenlin/mlfordesign/blob/main/notebooks/week-05-map.ipynb) |
+| 5 | [Train and compare two models](https://colab.research.google.com/github/chuanenlin/mlfordesign/blob/main/notebooks/week-05-train.ipynb) |
 | 5 | [Make a slider for your model](https://colab.research.google.com/github/chuanenlin/mlfordesign/blob/main/notebooks/week-05-sliders.ipynb) |
 | 6 | [A tool around your model](https://colab.research.google.com/github/chuanenlin/mlfordesign/blob/main/notebooks/week-06-tool.ipynb) |
 | 7 | [Read an agent's log](https://colab.research.google.com/github/chuanenlin/mlfordesign/blob/main/notebooks/week-07-agent-log.ipynb) |
