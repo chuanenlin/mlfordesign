@@ -13,7 +13,7 @@ Answers to the questions in Gebru et al., "Datasheets for Datasets" (CACM 2021),
 - **Sources:** 28 from The Metropolitan Museum of Art and 28 from the Art Institute of Chicago.
 - **Sample, not the whole collection:** I looked at all 36 public-domain chairs with images at the Art Institute and about 330 chairs at the Met, and picked by hand across dates, makers and regions.
 - **Each image has:** the museum, object number, title, maker, date, materials, credit line, license and a link to the museum's record (credits.csv).
-- **Missing:** chairs made after 1904, because most later chairs are not public domain, and most chairs made outside Europe and America. Of the rest, three chairs were made for European buyers (one in India, one in China, and one in the West Indies or Asia, as the record gives both), and one is from Africa.
+- **Missing:** chairs made after 1904, because most later chairs are not public domain, and most chairs made outside Europe and America. Only four chairs are from outside Europe and America: three were made for European buyers (one in India, one in China, and one in the West Indies or Asia, as the record gives both), and one is from Africa.
 - **People:** no people appear in the photographs.
 
 ## Collection process
@@ -24,7 +24,7 @@ Answers to the questions in Gebru et al., "Datasheets for Datasets" (CACM 2021),
 ## Preprocessing
 
 - The originals are unchanged. The training copies are resized so the long side is 1,024 px.
-- Captions: captions-museum.csv has one caption for each chair, written from its museum record. In the week 5 example, the model trained without captions gets captions that the trainer writes itself.
+- Captions: captions-museum.csv has one caption for each chair, written from its museum record. In the week 5 example, one model is trained without these captions, and the trainer writes its own caption for each image.
 
 ## Uses
 
